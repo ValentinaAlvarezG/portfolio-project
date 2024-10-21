@@ -17,6 +17,8 @@ Code structure:
 │ └── index.ts        # Utility functions
 ```
 
+To understand how to calculate the annualized return, I followed the logic described [here.](https://www.indeed.com/career-advice/career-development/how-to-calculate-annualized-return)
+
 ### Prerequisites
 
 - Docker
